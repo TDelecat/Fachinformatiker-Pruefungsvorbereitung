@@ -26,7 +26,7 @@ description: "Mithilfe des Lastenheftes und des Pflichtenheftes können Anforder
 
 - Entsteht aus einem Lastenheft
 - Wird vom Auftragnehmer erstellt
-- Beschreibt wie die Forderungen des Lastenhefts umgesetzt werden sollen
+- Beschreibt, wie die Forderungen des Lastenhefts umgesetzt werden sollen
 - Der Auftragnehmer verpflichtet sich die Inhalte des Pflichtenhefts umzusetzen
 - Genaue Vorstellung
 
