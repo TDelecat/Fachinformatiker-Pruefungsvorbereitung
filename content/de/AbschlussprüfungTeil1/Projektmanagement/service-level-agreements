@@ -1,0 +1,27 @@
+---
+title: "Service Level Agreements – SLAs"
+linkTitle: "Service Level Agreement: Definiton und wichtige Elemente"
+draft: true
+type: docs
+description: "Auf die IHK-Prüfung zusammengedampfte Definiton sowie wichtige, generisch gehaltene Elemente, nach denen in der Prüfung gefragt werden kann."
+---
+
+## Service Level Agreements – SLAs
+Damit werden die Prioritäten bei der Bearbeitung von Service-Fällen zwischen Anbieter und Kunde definiert. Sie sind somit Bestandteil der **Qualitätssicherung**.
+
+Die IHK kann nach Inhalten/Elementen/Bestandteilen o.ä fragen. Folgende, generisch gehaltene Antworten funktionieren unabhängig von Fallbeispielen:
+-	Vertragslaufzeit
+-	Reaktionszeiten (können je nach Fall/Level ausdifferenziert werden)
+-	Servicezeiten
+-	Kosten
+-	Details zur Kommunikation (z.B. Helpdesk)
+
+Weitere Elemente können sein:
+- Vertragsziel (z.B. tolerierbare Ausfallzeiten)
+- Zuständigkeiten bei Auftragnehmer und -geber
+- Supportlevel nach Kategorien (z.B. wenn der Server brennt, bitte sofort an den 3rd Level Support durchwinken)
+- Sanktionen bei Nichterfüllung (z.B. Gebühren)
+
+## Quellen
+- [Wikipedia](https://de.wikipedia.org/wiki/Service-Level-Agreement)
+- IT-Berufe, Abschlussprüfung Teil 1 (Lernkarten), U-Form-Verlag, ISBN: 978-3-95532-757-6
